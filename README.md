@@ -17,10 +17,7 @@ Certifique-se de ter as seguintes dependências instaladas:
   
 Você pode instalá-las usando os comandos abaixo:
 ```
-pip install beautifulsoup4
-pip install selenium
-pip install pandas
-pip install matplotlib
+pip install -r requirements.txt
 ```
 ## Passo 1: Configurar o Selenium
 
