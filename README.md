@@ -27,7 +27,7 @@ Passo 2: Executar o Script de Extração de Dados
 ```windows (python inteligencia_ltda_proj.py) macOS e Linux (python3 inteligencia_ltda_proj.py)```
 
 Passo 3: Executar o Script de Visualização de Dados 
-```windows (python | python3 show_graphic.py) macOS e Linux (python3 show_graphic.py)```
+```windows (python show_graphic.py) macOS e Linux (python3 show_graphic.py)```
 
 
 ### Considerações Finais
