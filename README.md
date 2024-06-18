@@ -34,8 +34,15 @@ python3 inteligencia_ltda_proj.py
 ```
 
 Passo 3: Executar o Script de Visualização de Dados 
-```para windows rodar o comando: (python show_graphic.py), para macOS e Linux rodar o comando: (python3 show_graphic.py)```
+para windows:
+```
+python show_graphic.py
+```
 
+para macOS e Linux:
+```
+python3 show_graphic.py
+```
 
 ### Considerações Finais
 
