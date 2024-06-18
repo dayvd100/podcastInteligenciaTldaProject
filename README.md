@@ -16,7 +16,7 @@ Certifique-se de ter as seguintes dependências instaladas:
 - Matplotlib
   
 Você pode instalá-las usando os comandos abaixo:
-
+```
 - pip install beautifulsoup4
 
 - pip install selenium
@@ -24,7 +24,7 @@ Você pode instalá-las usando os comandos abaixo:
 - pip install pandas
 
 - pip install matplotlib
-
+```
 ## Passo 1: Configurar o Selenium
 
 Você precisará do ChromeDriver para rodar o Selenium com o Google Chrome. Baixe o ChromeDriver (Vai depender de qual navegador) compatível com a versão do seu Chrome (ou com o browser que você usa) e coloque-o no seu PATH. 
