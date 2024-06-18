@@ -23,7 +23,7 @@ pip install -r requirements.txt
 
 Você precisará do ChromeDriver para rodar o Selenium com o Google Chrome. Baixe o ChromeDriver (Vai depender de qual navegador) compatível com a versão do seu Chrome (ou com o browser que você usa) e coloque-o no seu PATH. 
 
-Passo 2: Executar o Script de Extração de Dados 
+## Passo 2: Executar o Script de Extração de Dados 
 Para windows: 
 ```
 python inteligencia_ltda_proj.py
@@ -33,7 +33,7 @@ macOS e Linux:
 python3 inteligencia_ltda_proj.py
 ```
 
-Passo 3: Executar o Script de Visualização de Dados 
+## Passo 3: Executar o Script de Visualização de Dados 
 para windows:
 ```
 python show_graphic.py
